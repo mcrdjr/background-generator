@@ -1,5 +1,7 @@
 # background-generator
 
+Repository to just figure out git 
+
 https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
 
 git clone https://github.com/mcrdjr/background-generator.git
