@@ -7,9 +7,12 @@ copy files into this folder
 git status will show any new files copied
 
 git add file 
+git add .
 
 git commit -m "Starting Project"
 
-git push
+git push - to upload changes
+
+git pull - to get changes
 
 
